@@ -1,0 +1,4 @@
+class AddRemembrTokenToUsers < ActiveRecord::Migration
+  def change
+  end
+end
